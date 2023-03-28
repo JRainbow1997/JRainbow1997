@@ -1,5 +1,5 @@
 ## Hello There!
-### I am a Junior Developer currently working at Resulting IT in Warrington! 😄
+### I am a Developer currently working at Resulting IT in Warrington! 😄
 #### Primarily working with Javascript, API key interation and graphical databases.
 📫 email: jrainbow1997@gmail.com
 
